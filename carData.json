@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 1,
+    "brand": "Subaru",
+    "model": "WRX",
+    "model_year_start": 2022,
+    "model_year_end": 2023,
+    "number_of_doors": 4,
+    "modern_hp": 271
+  },
+  {
+    "_id": 2,
+    "brand": "Ford",
+    "model": "F150",
+    "model_year_start": 1975,
+    "model_year_end": 2023,
+    "number_of_doors": 2,
+    "modern_hp": 400
+  },
+  {
+    "_id": 3,
+    "brand": "Honda",
+    "model": "Civic Type R",
+    "model_year_start": 1997,
+    "model_year_end": 2023,
+    "number_of_doors": 4,
+    "modern_hp": 315
+  },
+  {
+    "_id": 4,
+    "brand": "Porsche",
+    "model": "GT3",
+    "model_year_start": 2022,
+    "model_year_end": 2023,
+    "number_of_doors": 2,
+    "modern_hp": 502
+  },
+  {
+    "_id": 5,
+    "brand": "Toyota",
+    "model": "GR Corolla",
+    "model_year_start": 2022,
+    "model_year_end": 2023,
+    "number_of_doors": 4,
+    "modern_hp": 300
+  },
+  {
+    "_id": 6,
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "model_year_start": 2014,
+    "model_year_end": 2018,
+    "number_of_doors": 4,
+    "modern_hp": 155
+  },
+  {
+    "_id": 7,
+    "brand": "Corvette",
+    "model": "Corvette Stingray",
+    "model_year_start": 1963,
+    "model_year_end": 2023,
+    "number_of_doors": 2,
+    "modern_hp": 495
+  },
+  {
+    "_id": 8,
+    "brand": "Nissan",
+    "model": "370Z",
+    "model_year_start": 2008,
+    "model_year_end": 2021,
+    "number_of_doors": 2,
+    "modern_hp": 324
+  },
+  {
+    "_id": 9,
+    "brand": "Porsche",
+    "model": "993 Turbo",
+    "model_year_start": 1995,
+    "model_year_end": 1999,
+    "number_of_doors": 2,
+    "modern_hp": 408
+  },
+  {
+    "_id": 10,
+    "brand": "Singer",
+    "model": "DLS",
+    "model_year_start": 2020,
+    "model_year_end": 2022,
+    "number_of_doors": 2,
+    "modern_hp": 500
+  }
+]
